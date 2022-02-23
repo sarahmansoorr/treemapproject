@@ -1,0 +1,2 @@
+# treemapproject
+Trees are a fundamental data structure used to model all sorts of hierarchical data. Often, a tree represents a hierarchical categorization of a base set of data, where the leaves represent the data values themselves, and internal nodes represent groupings of this data. Files on a computer can be viewed this way: regular files (e.g., PDF documents, video files, Python source code) are grouped into folders, which are then grouped into larger folders, etc.
